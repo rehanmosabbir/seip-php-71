@@ -45,13 +45,24 @@
     border: 1px solid;
 }
 
+.container {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.row:after {
+    content: ' ';
+    clear: both;
+    display: block;
+}
+
 .header-top-height { height: 30px;}
 .header-height { height: 200px;}
 .menu-height { height: 50px;}
 .content-height { height: 600px;}
 .big-footer-height { height: 300px;}
 .footer-height { height: 30px;}
-
 
 
 
