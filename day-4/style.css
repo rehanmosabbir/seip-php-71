@@ -44,10 +44,13 @@
     box-sizing: border-box;
     border: 1px solid;
 }
+
+.header-top-height { height: 30px;}
 .header-height { height: 200px;}
 .menu-height { height: 50px;}
 .content-height { height: 600px;}
-.footer-height { height: 50px;}
+.big-footer-height { height: 300px;}
+.footer-height { height: 30px;}
 
 
 
